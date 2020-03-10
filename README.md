@@ -1,0 +1,2 @@
+# NewGetTest
+Practice using GitHub
